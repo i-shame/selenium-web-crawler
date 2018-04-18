@@ -27,3 +27,4 @@ classes/
 
 # For App
 logs/
+target/

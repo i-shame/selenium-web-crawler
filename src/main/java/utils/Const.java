@@ -34,4 +34,5 @@ public class Const {
     public static final String DRIVER_PATH_CHROME = "libs\\drivers\\chromedriver.exe";
     public static final String DRIVER_PATH_FIREFOX = "libs\\drivers\\geckodriver.exe";
     public static final String DRIVER_PATH_IE = "libs\\drivers\\IEDriverServer.exe";
+    public static String HTML5UP_NET = "https://html5up.net/";
 }

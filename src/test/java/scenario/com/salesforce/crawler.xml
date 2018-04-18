@@ -5,7 +5,7 @@
           parallel="false">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="com.salesforce.trailhead.Crawler" />
+            <class name="scenario.com.salesforce.TrailheadScenario" />
         </classes>
     </test>
 </suite>

@@ -1,4 +1,4 @@
-package com.salesforce.trailhead.model;
+package model.com.salesforce;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -6,7 +6,7 @@ import org.openqa.selenium.support.How;
 
 import java.util.List;
 
-public class Crawler {
+public class Trailhead {
 
     @FindBy(how = How.XPATH, using = "//div[@class='content-title']")
     public WebElement lblContentTitle;
